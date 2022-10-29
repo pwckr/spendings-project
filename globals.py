@@ -1,0 +1,1 @@
+TEXT = "/Users/paulwecker/Desktop/Advanced SE/spendings-project/chat.txt"
